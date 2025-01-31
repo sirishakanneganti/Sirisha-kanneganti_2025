@@ -16,3 +16,12 @@
   # to check or verify the modified content in existing file
     git diff <filename>
 
+  class01 sep18th
+    introduction, devsetup, working with git and commands
+
+    class02 sep19th
+     Introduction to python
+     shebang line
+     basic data type supports
+     Indentation issue
+
