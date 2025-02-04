@@ -16,28 +16,35 @@
   # to check or verify the modified content in existing file
     git diff <filename>
 
-    ## Daily
-    to check the branch is clen,
-    git status
+To check the branch is clean, 
 
-    to checkout to the main branch
-    git checkout main
-    to get the latest changes
-    git pull origin main
+    git status 
 
-    to create new branch
-    git checkout -b new branch name
+To checkout to the main branch 
+    git checkout main 
 
-  class01 sep18th
-    introduction, devsetup, working with git and commands
+To get the latest changes 
+    git pull origin main 
 
-    class02 sep19th
-     Introduction to python
-     shebang line
-     basic data type supports
-     Indentation issue
+To create new branch 
+    git checkout -b <NEW BRANCH NAME>
+Course Completed
+class01 sept 18th
 
-  class03 sept 23rd
+00. Dev Setup
+    Installing IDE/Editor
+    Installing Python and local setup
+    Github access, creating project
+class02 sept 19th
+
+01.Introduction
+
+    Introduction to python
+    shebang line & usage
+    Dynamic Typing
+    Basic data types supports 
+    Indentation issue 
+class03 sept 23rd
 
     built-in functions
     Comment Operator
@@ -45,8 +52,7 @@
     strictly-typed and data type conversions
     python interactive mode
     Line continuation operator
-
-  class 04 sept 24th
+class 04 sept 24th
 
 02.Basics
     Arithmetic operations
@@ -54,4 +60,10 @@
         divmod() function
         compound operations
         jupyter notebook 
+        
+  class 05 sept 25th
 
+        Practical Problem solving
+        working with complex numbers
+        abs() function
+        Operator precedence in Arithmetic operations
