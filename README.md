@@ -67,3 +67,48 @@ class 04 sept 24th
         working with complex numbers
         abs() function
         Operator precedence in Arithmetic operations
+
+class 06 sept 26th
+
+02.Basics
+    String operations
+        Usage of single, double and triple quotes
+        len() function
+        Indexing 
+class 07 sept 30th
+
+        Slicing Strings
+        string attributes
+class 08 Oct 1st
+
+        String formatting: old & new styles, f-strings
+        bytearray() and byte() strings
+        unicode strings
+    Usage of help
+    Usage of pydoc
+
+
+    class 09 Oct 2nd
+
+03.Language Components
+    Relational Operations
+    Logical Operations
+    Boolean Operations
+    Bitwise Operations
+    Identity Operations
+    range() function
+class 10 Oct 3rd
+
+    Conditional Operations
+    Structural Pattern Matching
+    Loops: for & while,
+class 11 Oct 4th
+
+    Solving Game problems
+    Loops: break, continue, pass, sys.exit
+    Walrus Operator
+
+
+04.Exception Handling
+    Exceptions Hierarchy
+    Different types of errors, error vs exception and exception groups
